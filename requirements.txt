@@ -1,0 +1,3 @@
+textract
+pandas
+pyarrow
